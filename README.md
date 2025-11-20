@@ -1,6 +1,6 @@
 # Angular Distribution of Radiation from a Relativistic Charge
 
-A Jupyter notebook ([Colab](https://drive.google.com/file/d/1b-WpZDDcV7-fZcREkmQugQLE6izR83fk/view?usp=share_link)) for visualizing the **angular distribution of radiation** emitted by an accelerated charge moving at relativistic velocities. This project explores how radiation patterns depend on the charge's velocity and acceleration direction, demonstrating key relativistic effects like beaming and the headlight effect.
+A Jupyter notebook ([Colab](https://colab.research.google.com/drive/1b-WpZDDcV7-fZcREkmQugQLE6izR83fk)) for visualizing the **angular distribution of radiation** emitted by an accelerated charge moving at relativistic velocities. This project explores how radiation patterns depend on the charge's velocity and acceleration direction, demonstrating key relativistic effects like beaming and the headlight effect.
 
 ## Overview
 
